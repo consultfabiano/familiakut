@@ -26,7 +26,7 @@ export default function Home() {
   const usuarioAleatorio = 'fabianojp06';
   const [comunidades, setComunidades] = React.useState([{
     id: '12802378123789378912789789123896123', 
-    title: 'me amarro em acordar cedo...kkkkk',
+    title: 'mila cavando o chão...kkkkk',
     image: 'https://alurakut.vercel.app/capa-comunidade-01.jpg'
   }]);
   // const comunidades = comunidades[0];
