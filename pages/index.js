@@ -28,6 +28,10 @@ export default function Home() {
     id: '12802378123789378912789789123896123', 
     title: 'mila cavando o chão...kkkkk',
     image: 'https://alurakut.vercel.app/capa-comunidade-01.jpg'
+  }, {
+    id: '12802378123789378912789789123896123', 
+    title: 'mila cavando o chão...kkkkk',
+    image: 'https://alurakut.vercel.app/capa-comunidade-01.jpg'
   }]);
   // const comunidades = comunidades[0];
   // const alteradorDeComunidades/setComunidades = comunidades[1];
