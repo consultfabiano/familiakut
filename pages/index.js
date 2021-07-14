@@ -36,8 +36,8 @@ export default function Home() {
   // const comunidades = ['Alurakut'];
   const pessoasFavoritas = [
     'consultfabiano',
-    'omariosouto',
-    'peas',
+    'AnaClaraVG',
+    'JoaoPedroVG',
     'rafaballerini',
     'marcobrunodev',
     'felipefialho',
